@@ -8,9 +8,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "echarts": "^4.2.0-rc.2",
+    "echarts": "^6.0.0",
     "jszip": "^3.8.0",
-    "vue": "^2.5.17",
+    "vue": "^3.5.27",
     "vue-ba": "^1.2.5"
   },
   "devDependencies": {
@@ -21,7 +21,7 @@
     "babel-plugin-component": "^1.1.1",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
-    "vue-template-compiler": "^2.5.16"
+    "vue-template-compiler": "^2.7.16"
   },
   "eslintConfig": {
     "root": false,
